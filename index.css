@@ -1,0 +1,53 @@
+body{
+  background-color: #6833FF;
+  font-family: Trebuchet MS;
+  background-repeat:no-repeat;
+  background-size: 150%;
+  background-image: url(https://lh3.googleusercontent.com/ICIzEGYik3wmbImGLJAWvAQ3TbVFno_tNcaJ4XLYO7dvs_fX6XHkChMToT9h5ixNpu_9vfDuHqDd0w=w330-h440-rw);
+}
+
+#mainTitle {
+	background-color:red;
+	color:white;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	padding:15px;
+	font-size:20px;
+	text-shadow:2px 2px 5px black;
+	margin: 5px 1% 5px 1%;
+}
+
+
+#adam {
+	float:right;
+}
+
+#intro {
+  background-color: red;
+  padding: 15px;
+  float:left;
+  color: white;
+  font-size: 30px;
+}
+
+
+.grow {
+  color: white;
+  background-color: orange;
+  padding: 5px 5px 5px 5px;
+  height: 65px;
+  width: 95%;
+  margin: 5px 1% 5px 1%;
+  float: left;
+  position: relative;
+  transition: height 0.5s;
+  -webkit-transition: height 0.5s;
+  text-align: center;
+  overflow: hidden;
+  text-shadow:2px 2px 5px black;
+}
+.grow:hover {
+  height: 150px;
+}
+
+
