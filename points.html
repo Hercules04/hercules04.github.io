@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Points Calculator</title>
+<script type="text/javascript" src="grades.js"></script>
+<link href="grades.css" rel="stylesheet" type="text/css">
+
+
+
+</head>
+
+<body>
+
+<h1><span class="letter">P</span>oints for <span class="letterC">C</span>ollege</h1>
+<form id="form1" name="form1" method="post" action="">
+  <p>
+    <input type="button" name="subjectList" id="subjectsList" value="Get List of Subjects" onclick="showSubjects()">
+    <label for="checkbox"></label>
+  <div id="subjects">
+  </div>
+  </p>
+  <p>
+    <input type="button" value="Select Grades" onClick="showGrades()">
+   
+  </p>
+  <p>
+ <!-- <label><input type="radio" name="points" value="100">H1 </label>
+      <input type="radio" name="points" value="88">
+      H2 </label>
+      <input type="radio" name="points" value="77">
+      H3 </label>
+      <input type="radio" name="points" value="66">
+      H4 </label>
+      <input type="radio" name="points" value="56">
+      H5 </label>
+      <input type="radio" name="points" value="46">
+      H6 </label>
+      <input type="radio" name="points" value="37">
+      H7 </label>
+      <input type="radio" name="points" value="0">
+      H8 </label>
+      -->
+  </p>
+  <p>
+  </p>
+    <div id="grades">
+  </div>
+
+  <p>
+    <input type="button" name="button3" id="button3" value="Calculate Points" onClick="calcPoints()">
+      
+      
+  </p>
+  <p id="gotText" style="font-size:35px"><span class="letter"><strong>P</strong></span><strong>oints <span class="letterC">A</span>chieved</strong></p>
+  <p>
+    <input type="text" name="got" id="got" style="text-align: center;font-size:25px">
+  </p>
+</form>
+
+<div id="logo">
+	<a href="https://examinations.ie"><img src="leaving.jepg.jpg" name="logo" 		width="188" height="269" id="logo"></a>
+</div>
+
+<div>
+  <p>&nbsp;</p>
+		<a href="https://youtube.com/watch?v=1zNdw4DaUM8" style="text-decoration: none" id="goodLuck"><em><span class="letter"><strong>G</strong></span><strong>ood <span class="letterC">L</span>uck!</strong></em></a>
+  <p>&nbsp;</p>
+</div>
+
+</body>
+</html>
