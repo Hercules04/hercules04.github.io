@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+
+	
+#subjects{
+	color: #093;
+}
+	
+.letter{
+	color: #093;
+}
+
+.letterC{
+	color: blue;
+}
+
+h1{
+	font-size: 75px;
+}
+#grades{
+	color:blue;
+}
+#logo{
+	position: relative;
+	top: 10px;
+	}
+#goodLuck{
+	font-size:50px;
+	position: relative;
+	top: 10px;
+}
+#gotText{
+	font-size:25px;
+}
+.letters{
+	color:#000:
+}
+a:visited {
+	color:#000;
+}
