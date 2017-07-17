@@ -1,5 +1,6 @@
 
-<style>
+@charset "utf-8";
+/* CSS Document */
   body{
   background-image: url("/images/nebula.jpeg");
 }
@@ -8,4 +9,3 @@ h1{
   text-align: center;
   font-size: 100%;
 }
-</style>
