@@ -2,7 +2,7 @@
 @charset "utf-8";
 /* CSS Document */
   body{
-  background-image: url("/nebula/nebula.jpeg");
+  background-color: black;
 }
 h1{
   color: FFFFFF;
