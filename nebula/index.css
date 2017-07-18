@@ -2,10 +2,11 @@
 /* CSS Document */
 
 body{
-  background-color: black;
+    background-color: black;
 }
+
 h1{
-  font-color: FFFFFF;
-  text-align: center;
-  font-size: 100px;
+    font-color: white;
+    text-align: center;
+    font-size: 100px;
 }
