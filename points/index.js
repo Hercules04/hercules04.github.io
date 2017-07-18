@@ -1,7 +1,7 @@
 // JavaScript Document
 
 
-subject = ['English ', 'Maths (NUMBERS N STUFF) ' , 'French ', 'German ', 'Irish ', 'History ', 'Religion ', 'Physics ', 'Chemistry (POTIONS) ','Italian (I MAKE A A PIZZA) ','Spanish (I-I-I) ','Business Studies ','Economics (FAKE NEWS) ','Accounting ','Design and Communications Graphics (DRAW) ','Classical Studies (STORYTIME) ','Latin ','Art ','Music ','Agricultural Science (FARMING) ','Biology ','Applied Maths (NERD!) ','Geography (YEAH THE GROUND IS COOL) ','Chinese ','Japanese '];
+subject = ['English ', 'Maths ' , 'French ', 'German ', 'Irish ', 'History ', 'Religion ', 'Physics ', 'Chemistry ','Italian ','Spanish ','Business Studies ','Economics ','Accounting ','Design and Communications Graphics ','Classical Studies ','Latin ','Art ','Music ','Agricultural Science ','Biology ','Applied Maths ','Geography ','Chinese ','Japanese '];
 ns = subject.length;
 
 function showSubjects(){
